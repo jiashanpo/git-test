@@ -11,6 +11,7 @@ public class test {
     public void tt(){
         int i = 0 ;
         i+=10;
+        System.out.println(i);
 
     }
 }
